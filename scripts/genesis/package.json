@@ -13,11 +13,11 @@
       "Base64": "^1.1.0",
       "esm": "^3.2.25",
       "json-stable-stringify": "^1.0.1",
-      "node-fetch": "^2.6.1"
+      "node-fetch": "^2.6.7"
    },
    "devDependencies": {
       "jest": "^25.4.0",
       "jest-cli": "^25.4.0",
-      "tmp": "^0.2.1"
+      "tmp": "^0.2.7"
    }
 }
